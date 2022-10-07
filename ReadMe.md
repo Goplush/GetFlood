@@ -7,3 +7,5 @@ has three parameters
 - -x: thread number, default 250
 
 Using `scapy` to create a TCP connection and send HTTP GET repeatedly
+
+However, it will expose your true IP to server, **SO DON'T USE IT ON REAL SERVER!!! **
